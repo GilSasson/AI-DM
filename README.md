@@ -1,6 +1,7 @@
 # ai
 
 Applications of Artificial Intelligence and Data Mining, Prof. Avi Rosenfeld, Final Project.
+Status: ongoing.
 
 Time series stock analysis.  This dataset looks at the data from the “FAANG” companies (Facebook, Amazon, Apple, Netflix, Google). 
 This data was taken from: https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data.  
