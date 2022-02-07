@@ -1,4 +1,4 @@
-# ai
+# AI-DM
 
 Applications of Artificial Intelligence and Data Mining, Prof. Avi Rosenfeld, Final Project.
 
